@@ -1,4 +1,3 @@
-# Pede ao usuario para inserir uma idade
 idade = int(input('Digite sua idade: '))
 
 if idade >= 65:
